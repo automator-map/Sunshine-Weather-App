@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">38dp</dimen>
+    <dimen name="digital_text_size_round">40dp</dimen>
+    <dimen name="digital_line_height">25dp</dimen>
+    <dimen name="digital_date_text_size">16dp</dimen>
+    <dimen name="weather_temp_text_size">26dp</dimen>
+    <dimen name="separator_line_height">20dp</dimen>
+
+    <dimen name="digital_x_offset">0dp</dimen> <!-- Without Align.CENTER: 15dp -->
+    <dimen name="digital_x_offset_round">0dp</dimen> <!-- Without Align.CENTER: 25dp -->
+    <dimen name="digital_y_offset">90dp</dimen>
+</resources>
